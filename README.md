@@ -1,5 +1,8 @@
 # Estimating Cosmological Parameters with an Artificial Neural Network
 
+![universe-11636_960_720-1-800x540](https://github.com/user-attachments/assets/e6b39f4a-c540-4d63-ba5b-4bc178321112)
+
+
 ### Introduction:
 
 **Goal:** Develop a neural network model to estimate $\Omega_{matter}$ (dark matter density parameter) and the Hubble constant ($H_0$) by analyzing the relationship between Hubble values and redshift (z).
@@ -9,7 +12,7 @@
 * **Friedmann Equation:**
   
 
- $ H(z) = H_0 \cdot \sqrt{\Omega_m \cdot (1 + z)^3 + \Omega_\Lambda} $
+ $H(z) = H_0 \cdot \sqrt{\Omega_m \cdot (1 + z)^3 + \Omega_\Lambda}$
 
 * **Assumptions:**
   * Radiation density parameter ($\Omega_r$) is assumed to be 0.
